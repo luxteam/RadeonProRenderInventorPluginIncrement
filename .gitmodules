@@ -1,0 +1,3 @@
+[submodule "RadeonProRenderInventorPlugin"]
+	path = RadeonProRenderInventorPlugin
+	url = https://github.com/Radeon-Pro/RadeonProRenderInventorPlugin.git
